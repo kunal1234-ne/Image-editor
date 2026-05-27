@@ -1,0 +1,6 @@
+{
+  "name": "WebP Image Resizer",
+  "description": "An elegant, powerful client-side image resizing tool supporting all formats and exporting directly to WebP with custom dimensions and quality settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
